@@ -68,7 +68,7 @@ With Horizon UI Landing Sections Kit PRO you will find a bunch of fully coded & 
 ---
 # Figma Version
 
-Horizon UI Landing Section Library is available in Figma format as well - [Check it out here](https://horizon-ui.com/landing-kit/)
+Horizon UI Landing Section Library is available in Figma format as well - [Check it out here](https://www.figma.com/community/file/1293826093753965747/horizon-ui-free-tailwind-css-html-landing-page-kit)
 
 
 
