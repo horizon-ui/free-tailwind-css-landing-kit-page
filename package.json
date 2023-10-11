@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "tailwindcss build -o dist/output.css",
+    "watch": "npx tailwindcss -o dist/output.css --watch"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.4.1",
+    "tailwindcss": "^3.3.3"
+  }
+}

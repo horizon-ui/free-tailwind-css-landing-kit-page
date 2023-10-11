@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply antialiased sans;
+  }
+
+    /* Firefox */
+    [data-carousel] * {
+      scrollbar-width: none;
+      -ms-overflow-style: none; /* Hide scrollbar on Internet Explorer and Edge */
+    }
+  
+    /* Chrome, Edge, and Safari */
+    [data-carousel] *::-webkit-scrollbar {
+      display: none;
+    }
+  
+}
