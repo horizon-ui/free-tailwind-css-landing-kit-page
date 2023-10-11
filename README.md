@@ -80,7 +80,7 @@ We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
 some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Horizon UI Landing Section Library. Check the CHANGELOG for your dashboard on our
-   [CHANGE LOG File](https://github.com/horizon-ui/tailwind-css-landing-library-kit-pro/blob/main/CHANGELOG.md?ref=readme-horizon).
+   [CHANGE LOG File](https://github.com/horizon-ui/free-tailwind-css-landing-kit-page/blob/main/CHANGELOG.md?ref=readme-horizon).
 2. Providing us reproducible steps for the issue will shorten the time it takes
    for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you
